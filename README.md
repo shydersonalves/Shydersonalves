@@ -1,7 +1,8 @@
 ## Olá eu sou shyderson alves👋 
 
 
-- 🌱 Atualmente estou aprendendo HTML e CSS 
+- 🌱 Atualmente estou aprendendo HTML e CSS
+- 🤓 Futuro fullstack
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Shyd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
