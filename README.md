@@ -1,7 +1,7 @@
 ## Olá eu sou shyderson alves👋 
 
 
-- 🌱 Atualmente estou aprendendo HTML e CSS
+- 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS
 - 🤓 Futuro fullstack
   
 <div style="display: inline_block"><br>
